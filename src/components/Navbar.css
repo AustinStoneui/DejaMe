@@ -33,6 +33,25 @@
   margin-left: 0.5rem;
   font-size: 1.8rem;
 }
+.header__optionLineOne {
+  font-size: 10px;
+}
+
+.header__optionLineTwo {
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.header__optionBasket {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.header__basketCount {
+  margin-left: 10px;
+  margin-right: 10px;
+}
 
 .nav-menu {
   display: grid;
