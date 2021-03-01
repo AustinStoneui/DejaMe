@@ -14,8 +14,8 @@ function App() {
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
-          <Route path='/services' component={Service} />
           <Route path='/products' component={Products} />
+          <Route path='/services' component={Service} />
           <Route path='/sign-up' component={SignUp} />
         </Switch>
       </Router>
