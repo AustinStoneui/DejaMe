@@ -44,6 +44,7 @@
 
 .header__optionBasket {
   display: flex;
+  margin-top: 1.7rem;
   align-items: center;
   color: white;
 }

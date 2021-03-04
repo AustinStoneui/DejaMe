@@ -18,19 +18,19 @@ export default function Products(props) {
               src='https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGljdHVyZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Children'
-              path='/services'
+              path='/product'
             />
             <CardItem
               src='https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGljdHVyZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Women'
-              path='/services'
+              path='/product'
             />
             <CardItem
               src='https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGljdHVyZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Men'
-              path='/services'
+              path='/product'
             />
             
             
@@ -43,19 +43,19 @@ export default function Products(props) {
               src='https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGljdHVyZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Children'
-              path='/services'
+              path='/product'
             />
             <CardItem
               src='https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGljdHVyZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Women'
-              path='/services'
+              path='/product'
             />
             <CardItem
               src='https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGljdHVyZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Men'
-              path='/services'
+              path='/product'
             />
             
             
@@ -68,19 +68,19 @@ export default function Products(props) {
               src='https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGljdHVyZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Children'
-              path='/services'
+              path='/product'
             />
             <CardItem
               src='https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGljdHVyZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Women'
-              path='/services'
+              path='/product'
             />
             <CardItem
               src='https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGljdHVyZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Men'
-              path='/services'
+              path='/product'
             />
             
             
@@ -93,19 +93,19 @@ export default function Products(props) {
               src='https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGljdHVyZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Children'
-              path='/services'
+              path='/product'
             />
             <CardItem
               src='https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGljdHVyZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Women'
-              path='/services'
+              path='/product'
             />
             <CardItem
               src='https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGljdHVyZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Men'
-              path='/services'
+              path='/product'
             />
             
             
